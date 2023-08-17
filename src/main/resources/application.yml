@@ -1,0 +1,16 @@
+server:
+  port: 8848
+
+storage:
+  local:
+    uploadAddress: src/main/webapps
+    visitAddress: http://121.196.98.183:8080/img/
+
+page:
+  newsPageNum: 9
+  betPageNum: 10
+  matchPageNum: 12
+
+bet:
+  returnRate: 0.9
+  principal: 1000
